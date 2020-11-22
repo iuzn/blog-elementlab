@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-contentful-portfolio",
-  "description": "Portfolio theme for GatsbyJS",
+  "name": "element-blog",
+  "description": "Component Based Blog System",
   "version": "1.0.0",
-  "author": "Wojciech Kocjan <wojciech@kocjan.net>",
+  "author": "Element Blog",
   "dependencies": {
     "autoprefixer": "^9.7.6",
     "classnames": "^2.2.6",
@@ -52,9 +52,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wkocjan/gatsby-contentful-portfolio"
+    "url": "https://github.com/iuzn/blog-elementlab"
   },
   "bugs": {
-    "url": "https://github.com/wkocjan/gatsby-contentful-portfolio/issues"
+    "url": "https://github.com/iuzn/blog-elementlab/issues"
   }
 }
