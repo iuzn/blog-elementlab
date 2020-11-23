@@ -1,5 +1,5 @@
 .swiper-container {
-  --swiper-theme-color: theme("colors.blue.500");
+  --swiper-theme-color: theme("colors.indigo.500");
 }
 
 .swiper-pagination-bullet {

@@ -18,7 +18,7 @@ module.exports = {
       facebook: "https://www.facebook.com/",
       instagram: "https://www.instagram.com/",
       pinterest: "https://pinterest.com/",
-      twitter: "https://twitter.com/",
+      twitter: "https://twitter.com/Element_Blog",
     },
     locale: "en",
     title: `Element Blog`,

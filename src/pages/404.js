@@ -13,7 +13,7 @@ const ErrorPage = () => (
             Error 404
           </h1>
 
-          <h2 className="text-xl leading-tight font-semibold tracking-tight text-blue-600 sm:text-2xl">
+          <h2 className="text-xl leading-tight font-semibold tracking-tight text-indigo-600 sm:text-2xl">
             The page doesn't exists.
           </h2>
         </div>

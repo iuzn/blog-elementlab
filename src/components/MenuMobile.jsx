@@ -38,7 +38,7 @@ const MenuMobile = ({ links, isOpen, setIsOpen }) => {
             >
               <Link
                 className="font-semibold text-4xl text-white"
-                activeClassName="text-blue-500"
+                activeClassName="text-indigo-500"
                 to={link.to}
                 onClick={() => setIsOpen(false)}
               >

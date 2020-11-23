@@ -42,7 +42,7 @@ export default props => {
               <h1 className="text-3xl leading-tight font-extrabold tracking-tight text-gray-900 sm:text-4xl mb-1">
                 {name}
               </h1>
-              <h2 className="text-xl leading-tight font-semibold tracking-tight text-blue-600 sm:text-2xl">
+              <h2 className="text-xl leading-tight font-semibold tracking-tight text-indigo-600 sm:text-2xl">
                 {summary}
               </h2>
               {description && (

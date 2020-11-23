@@ -13,39 +13,22 @@ const AboutPage = ({ data }) => (
       <div className="container py-12 lg:pb-16">
         <div className="flex flex-wrap">
           <div className="w-full md:w-1/2 xl:w-3/5 pb-8 md:pb-0">
-            <h1 className="text-3xl leading-tight font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-              About me
+            <h1 className="text-3xl leading-tight font-extrabold tracking-tight text-gray-900 sm:text-4xl underline">
+              Element Blog
             </h1>
 
-            <h2 className="text-xl leading-tight font-semibold tracking-tight text-blue-600 sm:text-2xl">
-              Interdum et malesuada fames ac ante.
+            <h2 className="text-xl leading-tight font-semibold tracking-tight text-indigo-600 sm:text-2xl">
+              It carry your workspaces to your website
             </h2>
             <div className="mt-4 leading-loose">
-              Curabitur non hendrerit dolor. Interdum et malesuada fames ac ante
-              ipsum primis in faucibus. Ut&nbsp;sapien ex, fringilla sed
-              consectetur et, pharetra eget lacus.
+              Nowadays, blogging, podcasting or making a YouTube video is an indispensable place for content producers. We have developed a component-based blog system where many content producers can promote themselves better, create brand awareness and collect the content they produce on multiple platforms in one place.
               <br />
-              <br />
-              Morbi sem leo, varius ut tempus et, tempor sit amet nibh.
-              Curabitur fermentum feugiat libero, sed egestas lorem aliquam et.
-              Praesent id mi purus. Morbi sem leo, varius ut tempus et, tempor
-              sit amet nibh.
-              <br />
-              <br />
-              I'm happy to hear from you:
-              <br />
-              <a
-                href="mailto:contact@johndoe.com"
-                className="border-b border-gray-500 hover:border-blue-600 hover:text-blue-600"
-              >
-                contact@johndoe.com
-              </a>
             </div>
           </div>
           <div className="w-full md:w-1/2 xl:w-2/5 md:pl-12">
             <Img
               fluid={data.author.childImageSharp.fluid}
-              alt="John Doe"
+              alt="Element Blog"
               className="rounded-md shadow-md"
             />
           </div>
