@@ -29,9 +29,9 @@ const Newsletter = () => {
 
   return (
     <div className="container py-12 lg:py-16">
-      <h2 className="text-3xl sm:text-4xl font-extrabold text-gray-900 leading-tight tracking-tight">
-        Get updates for <span className="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 to-indigo-500">themes</span>
-      </h2>
+      <h3 className="text-2xl sm:text-3xl font-extrabold text-gray-900 leading-tight tracking-tight">
+        Get updates for new <span className="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 to-indigo-500">themes</span>
+      </h3>
       <form className="mt-8 sm:flex" onSubmit={handleSubmit}>
         <input
           aria-label="Email address"

@@ -18,7 +18,7 @@ const AboutPage = ({ data }) => (
             </h1>
 
             <h2 className="text-xl leading-tight font-semibold tracking-tight text-indigo-600 sm:text-2xl">
-              It carry your workspaces to your website
+              “It carry your workspaces to your website”
             </h2>
             <div className="mt-4 leading-loose">
               Nowadays, blogging, podcasting or making a YouTube video is an indispensable place for content producers. We have developed a component-based blog system where many content producers can promote themselves better, create brand awareness and collect the content they produce on multiple platforms in one place.
