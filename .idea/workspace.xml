@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef957032-a9df-4a97-a233-78cc3498e3f7" name="Default Changelist" comment="" />
+    <list default="true" id="ef957032-a9df-4a97-a233-78cc3498e3f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ibrahim\Desktop\blog-elementlab-net\node_modules\prettier" />
@@ -35,36 +38,14 @@
       <workItem from="1606081152136" duration="1056000" />
       <workItem from="1606082972953" duration="13020000" />
       <workItem from="1606136079450" duration="4017000" />
+      <workItem from="1607198938324" duration="620000" />
+      <workItem from="1607202755350" duration="979000" />
+      <workItem from="1607205677925" duration="1188000" />
+      <workItem from="1607690044669" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1412" height="392" key="GridCell.Tab.0.bottom" timestamp="1606096525791">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1412" height="392" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1606096525791" />
-    <state width="1412" height="392" key="GridCell.Tab.0.center" timestamp="1606096525791">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1412" height="392" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1606096525791" />
-    <state width="1412" height="392" key="GridCell.Tab.0.left" timestamp="1606096525790">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1412" height="392" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1606096525790" />
-    <state width="1412" height="392" key="GridCell.Tab.0.right" timestamp="1606096525791">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1412" height="392" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1606096525791" />
-    <state x="148" y="351" key="SettingsEditor" timestamp="1606085389894">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="148" y="351" key="SettingsEditor/0.0.2560.1410@0.0.2560.1410" timestamp="1606085389894" />
-    <state x="437" y="422" width="583" height="566" key="find.popup" timestamp="1606095099120">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="437" y="422" width="583" height="566" key="find.popup/0.0.2560.1410@0.0.2560.1410" timestamp="1606095099120" />
   </component>
 </project>
